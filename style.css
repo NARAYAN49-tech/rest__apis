@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    background-color: cadetblue;
+}
+h1{
+    color: brown;
+}
+h2{
+    color: magenta;
+}
+h4{
+    color: blueviolet;
+}
